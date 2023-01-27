@@ -1,0 +1,87 @@
+import Image1 from '../../assets/project1.jpg'
+
+const data = [
+{
+  id: 1,
+  category: 'html css',
+  image: Image1,
+  title: "Project 1: 스타벅스 클론 코딩",
+  info: "lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is",
+  demo: 'https://www.netlify.com/',
+  github: 'https://github.com/mgbc2022',
+},
+{
+  id: 2,
+  category: 'UI/UX',
+  image: Image1,
+  title: "Project 1: 스타벅스 클론 코딩",
+  info: "lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is",
+  demo: 'https://www.netlify.com/',
+  github: 'https://github.com/mgbc2022',
+},
+{
+  id: 3,
+  category: '디자이너 협업',
+  image: Image1,
+  title: "Project 1: 스타벅스 클론 코딩",
+  info: "lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is",
+  demo: 'https://www.netlify.com/',
+  github: 'https://github.com/mgbc2022',
+},
+{
+  id: 4,
+  category: 'javascript',
+  image: Image1,
+  title: "Project 1: 스타벅스 클론 코딩",
+  info: "lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is",
+  demo: 'https://www.netlify.com/',
+  github: 'https://github.com/mgbc2022',
+},
+{
+  id: 5,
+  category: 'html css',
+  image: Image1,
+  title: "Project 1: 스타벅스 클론 코딩",
+  info: "lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is",
+  demo: 'https://www.netlify.com/',
+  github: 'https://github.com/mgbc2022',
+},
+{
+  id: 6,
+  category: 'javascript',
+  image: Image1,
+  title: "Project 1: 스타벅스 클론 코딩",
+  info: "lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is",
+  demo: 'https://www.netlify.com/',
+  github: 'https://github.com/mgbc2022',
+},
+{
+  id: 7,
+  category: 'react',
+  image: Image1,
+  title: "Project 1: 스타벅스 클론 코딩",
+  info: "lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is",
+  demo: 'https://www.netlify.com/',
+  github: 'https://github.com/mgbc2022',
+},
+{
+  id: 8,
+  category: 'react',
+  image: Image1,
+  title: "Project 1: 스타벅스 클론 코딩",
+  info: "lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is",
+  demo: 'https://www.netlify.com/',
+  github: 'https://github.com/mgbc2022',
+},
+{
+  id: 9,
+  category: 'react',
+  image: Image1,
+  title: "Project 1: 스타벅스 클론 코딩",
+  info: "lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is lorem Ipsum is Lorem Ipsum is",
+  demo: 'https://www.netlify.com/',
+  github: 'https://github.com/mgbc2022',
+}
+]
+
+export default data

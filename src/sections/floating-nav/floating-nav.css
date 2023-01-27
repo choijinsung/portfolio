@@ -1,0 +1,39 @@
+#floating__nav {
+    display: none;
+}
+
+
+
+/* Tablet */
+@media screen and (max-width: 1024px) {
+    #floating__nav {
+        display: flex;
+        align-items: center;
+        position: fixed;
+        bottom: 1rem;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 9;
+    }
+
+    .scrollspy {
+        display: flex;
+        gap: 1rem;
+        background: rgba(0, 0, 0, 0.4);
+        padding: 0.5rem 1rem;
+        border-radius: 0.25rem;
+        backdrop-filter: blur(20px);
+    }
+
+    #floating__nav a {
+        padding: 0.25rem;
+        border-radius: 50%;
+        font-size: 1rem;
+        color: white;
+        display: grid;
+    }
+
+    #floating__nav li.active a {
+        background: var(--color-primary);
+    }
+}
